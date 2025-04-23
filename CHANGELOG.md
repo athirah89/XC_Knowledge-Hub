@@ -9,7 +9,6 @@ Technology Migration
 <li>Technical Upgrade</li>
 <li>Database Decoupling</li>
 
-Added
-a. 
+### Added
 
 ## Release 1.7

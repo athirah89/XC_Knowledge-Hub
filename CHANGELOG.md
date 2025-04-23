@@ -6,7 +6,7 @@
 This release contains database migration and bug fixes for performance improvement.
 
 Technology Migration
-a. Technology and Technical Upgrade
+a. Technical Upgrade
 b. Database Decoupling
 
 Added

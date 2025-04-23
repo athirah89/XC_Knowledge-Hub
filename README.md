@@ -1,10 +1,9 @@
-# README
 
-<p>Planned Item</p>
+Welcome to X-Catalyst Knowledge Hub, this repository 
 
-<li>Guide/Reference</li>
-<li>Release/Change Log</li>
-<li>Planned downtime</li>
-<li>Onboarding</li>
-<ul>List of software</ul>
+1. Ideation & Implementation
+2. Defect 
+3. Release Management
+- Change Log
+- Planned Downtime
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Defect.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,12 +181,12 @@
   },
   "active": "f9b29d429e86aa45",
   "lastOpenFiles": [
-    "assets/EA Defect Form.png",
-    "2.User receive email upon jira bug creation.png",
-    "1.Submission Confirmation.png",
+    "assets/images/Jira/EA Defect Form.png",
+    "assets/images/Jira/Confirmation.png",
+    "assets/images/Jira/2.User receive email upon jira bug creation.png",
+    "assets/images/Jira/1.Submission Confirmation.png",
     "assets/images/Jira/Email2.png",
     "assets/images/Jira/Email1.png",
-    "assets/images/Jira/Confirmation.png",
     "Defect.md",
     "EA Defect Form.png",
     "CHANGELOG.md",

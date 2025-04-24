@@ -3,7 +3,7 @@
 
 
 ## Release 1.6
-This release contains database migration and bug fixes for performance improvement.
+This release contains database migration and bug fixes.
 
 Technology Migration
 <li>Technical Upgrade</li>

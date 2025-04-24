@@ -5,7 +5,7 @@
 ## Release 1.6
 This release contains database migration and bug fixes.
 
-Technology Migration
+#### Technology Migration
 <li>Technical Upgrade</li>
 <li>Database Decoupling</li>
 

@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "D:\\Users\\00160055\\Documents\\Obsidian Vault\\pandoc",
+  "pdflatex": null,
+  "outputFolder": "D:\\Users\\00160055\\Documents\\Obsidian Vault\\pandoc\\Download",
+  "extraArguments": "",
+  "exportFrom": "html"
+}

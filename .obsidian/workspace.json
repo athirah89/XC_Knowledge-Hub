@@ -11,12 +11,14 @@
             "id": "98344e69640c095f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/Jira/Blank Form submission - Jira.pdf"
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blank Form submission - Jira"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -177,11 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dea2fa451e5b3e16",
+  "active": "98344e69640c095f",
   "lastOpenFiles": [
-    "Defect Creation.md",
-    "assets/images/Jira/Blank Form submission - Jira.pdf",
+    "Defect.md",
+    "README.md",
     "CHANGELOG.md",
-    "README.md"
+    "assets/images/Jira/Blank Form submission - Jira.pdf"
   ]
 }

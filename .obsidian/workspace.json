@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defect.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defect"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -181,15 +181,15 @@
   },
   "active": "f9b29d429e86aa45",
   "lastOpenFiles": [
-    "assets/images/Jira/EA Defect Form.png",
-    "assets/images/Jira/Confirmation.png",
-    "assets/images/Jira/2.User receive email upon jira bug creation.png",
-    "assets/images/Jira/1.Submission Confirmation.png",
-    "assets/images/Jira/Email2.png",
-    "assets/images/Jira/Email1.png",
-    "Defect.md",
     "EA Defect Form.png",
     "CHANGELOG.md",
+    "assets/images/Jira/EA Defect Form.png",
+    "assets/images/Jira/1.Submission Confirmation.png",
+    "assets/images/Jira/2.User receive email upon jira bug creation.png",
+    "Defect.md",
+    "assets/images/Jira/Confirmation.png",
+    "assets/images/Jira/Email2.png",
+    "assets/images/Jira/Email1.png",
     "README.md",
     "assets/images/Jira/Blank Form submission - Jira.pdf",
     "assets/images/sample.png"

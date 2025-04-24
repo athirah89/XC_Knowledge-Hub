@@ -15,3 +15,6 @@
 ## How to create a Defect
 
 
+
+
+![](1.Submission%20Confirmation.png)

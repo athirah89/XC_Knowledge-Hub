@@ -5,8 +5,14 @@
   <summary>Table of Contents</summary>
   <ol>
   <ul>Defect
-  <li>How to Create a Defect</li>
+  <li>[[How to Create a Defect]]</li>
     <li>Defect creation in Jira</li>
     </ul>
     </ol>
 </details>
+
+
+## How to create a Defect
+
+
+Defect form![[Blank Form submission - Jira.pdf]]

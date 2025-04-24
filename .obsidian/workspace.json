@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "284f73814a970196",
+        "id": "a798552208b1b122",
         "type": "tabs",
         "children": [
           {
-            "id": "0df88485ba0a06f9",
+            "id": "98344e69640c095f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "CHANGELOG.md",
-                "bFile": "CHANGELOG.md",
-                "aRef": ""
+                "file": "Defect Creation.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: CHANGELOG"
+              "icon": "lucide-file",
+              "title": "Defect Creation"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df88485ba0a06f9",
+  "active": "98344e69640c095f",
   "lastOpenFiles": [
+    "Blank Form submission - Jira.pdf",
     "CHANGELOG.md",
     "README.md",
     "Defect Creation.md"

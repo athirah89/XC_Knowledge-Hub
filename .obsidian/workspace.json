@@ -11,14 +11,12 @@
             "id": "98344e69640c095f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Defect Creation.md",
-                "mode": "preview",
-                "source": false
+                "file": "assets/images/Jira/Blank Form submission - Jira.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Defect Creation"
+              "icon": "lucide-file-text",
+              "title": "Blank Form submission - Jira"
             }
           }
         ]
@@ -179,11 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98344e69640c095f",
+  "active": "dea2fa451e5b3e16",
   "lastOpenFiles": [
-    "Blank Form submission - Jira.pdf",
+    "Defect Creation.md",
+    "assets/images/Jira/Blank Form submission - Jira.pdf",
     "CHANGELOG.md",
-    "README.md",
-    "Defect Creation.md"
+    "README.md"
   ]
 }

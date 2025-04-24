@@ -15,4 +15,3 @@
 ## How to create a Defect
 
 
-Defect form![[Blank Form submission - Jira.pdf]]

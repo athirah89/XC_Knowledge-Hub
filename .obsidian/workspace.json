@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defect.md",
-                "mode": "preview",
+                "file": "CHANGELOG.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defect"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "98344e69640c095f",
   "lastOpenFiles": [
-    "CHANGELOG.md",
-    "README.md",
+    "assets/images/Jira/Blank Form submission - Jira.pdf",
+    "assets/images/sample.png",
     "Defect.md",
-    "assets/images/Jira/Blank Form submission - Jira.pdf"
+    "CHANGELOG.md",
+    "README.md"
   ]
 }

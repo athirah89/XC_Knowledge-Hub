@@ -11,4 +11,7 @@ Technology Migration
 
 #### Added
 
+<li>Unique URL identification</li>
+<li>Email notification update to Requestor, EA support and EA lead</li>
+
 ## Release 1.7

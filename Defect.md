@@ -14,6 +14,4 @@
 
 ## How to create a Defect
 
-Defect form
-![Form](assets/images/Jira/Jira1.pdf)
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a798552208b1b122",
+        "id": "6a8669312b4f290c",
         "type": "tabs",
         "children": [
           {
-            "id": "98344e69640c095f",
+            "id": "f9b29d429e86aa45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,13 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98344e69640c095f",
+  "active": "f9b29d429e86aa45",
   "lastOpenFiles": [
+    "assets/EA Defect Form.png",
+    "2.User receive email upon jira bug creation.png",
     "1.Submission Confirmation.png",
+    "assets/images/Jira/Email2.png",
+    "assets/images/Jira/Email1.png",
+    "assets/images/Jira/Confirmation.png",
+    "Defect.md",
+    "EA Defect Form.png",
     "CHANGELOG.md",
     "README.md",
     "assets/images/Jira/Blank Form submission - Jira.pdf",
-    "assets/images/sample.png",
-    "Defect.md"
+    "assets/images/sample.png"
   ]
 }
